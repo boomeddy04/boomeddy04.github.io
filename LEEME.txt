@@ -1,0 +1,31 @@
+PORTAFOLIO DE EDDY — GUÍA DE EDICIÓN
+
+ABRIR: abre esta carpeta en Visual Studio Code y abre index.html en tu navegador. No necesita instalar paquetes ni conexión para visualizarlo.
+
+ARCHIVOS NUEVOS: index.html (contenido), styles.css (diseño), script.js (interacciones). Se conservan tus archivos originales trabajo-final*.html y CSS, y todas las imágenes.
+
+ANTES DE ENTREGAR:
+1. Correo configurado: eddychuquimiapinto@gmail.com. Puedes cambiarlo en script.js e index.html.
+2. En index.html, revisa nombre, formación y experiencia. Los datos vienen del proyecto original; no se inventaron fechas ni títulos de proyectos anteriores.
+3. En la sección proyectos, sustituye las áreas de práctica por trabajos concretos realizados: nombre, descripción, captura del resultado y tecnologías. Las fotografías existentes no son necesariamente capturas del resultado final. Sustituye también los avisos “Evidencia final por completar” cuando corresponda.
+4. Contacto configurado: Eddy Vladimir Chuquimia Pinto, celular 69762588.
+
+FUNCIONES JAVASCRIPT PARA EXPLICAR EN LA DEFENSA:
+- Menú móvil: abre y cierra la navegación.
+- Tema claro/oscuro: cambia colores y guarda la preferencia.
+- Filtro: muestra las tarjetas según categoría.
+- Galería: amplía las fotografías en un diálogo.
+- Formulario: valida los campos y prepara un correo cuando hayas configurado CONTACT_EMAIL. No envía correos por sí solo.
+- Año del pie de página: se actualiza automáticamente.
+
+PUBLICACIÓN PENDIENTE:
+El proyecto está preparado como sitio estático con index.html en la raíz para GitHub Pages. Todavía debes subir estos archivos a tu repositorio, habilitar GitHub Pages y comprobar la dirección pública antes de entregar el enlace. No se ha publicado desde esta conversación.
+
+CORRECCIONES: rutas de imágenes sensibles a mayúsculas, etiquetas semánticas, codificación UTF-8, viewport móvil, navegación por secciones, textos revisados y controles accesibles por teclado.
+
+ACTUALIZACIÓN: FOTO, MÚSICA Y CUATRO PRÁCTICAS
+- Foto principal: imagen/perfil-eddy.jpeg (tu fotografía adjunta).
+- Cuatro tarjetas nuevas: Inglés técnico, Páginas web, JavaScript y Redes. Total: 9 tarjetas. Las imágenes nuevas son ilustraciones temáticas; puedes sustituirlas por capturas reales de tus trabajos.
+- Música instrumental original sintetizada, incluida en audio/fondo.mp3. Pulsa “Reproducir música” al pie de la página; puedes pausarla y ajustar el volumen. No requiere internet.
+- Para usar otra canción, sustituye audio/fondo.mp3 manteniendo el nombre.
+- Conserva toda la carpeta al subir a GitHub, incluidas imagen y audio.
